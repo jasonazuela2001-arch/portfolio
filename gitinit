@@ -1,0 +1,5 @@
+git init -b main
+git add .
+git commit -m "Initial commit: Jason S. Azuela portfolio"
+git remote add origin https://github.com/jasonazuela2001-arch/jason-azuela-portfolio.git
+git push -u origin main
